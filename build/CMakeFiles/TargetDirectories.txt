@@ -1,0 +1,4 @@
+/shared/foss-18/looping/build/CMakeFiles/rebuild_cache.dir
+/shared/foss-18/looping/build/CMakeFiles/edit_cache.dir
+/shared/foss-18/looping/build/CMakeFiles/looping.dir
+/shared/foss-18/looping/build/CMakeFiles/looping_ext.dir
